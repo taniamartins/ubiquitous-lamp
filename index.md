@@ -1,5 +1,5 @@
 ---
-###title: learning as i go
+title: learning as i go
 ---
 
 ## about me
