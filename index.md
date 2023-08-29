@@ -4,7 +4,7 @@ title: learning as i go
 
 ## about me
 
-I'm a AI/data science intern with a passion for NLP and Speech Processing. I am currently doing a master's and undertaking an internship. 
+I'm a AI/data science intern with a passion for NLP and Speech Processing. I am a linguist currently doing a master's and undertaking an internship. 
 
 
 ## the blog
