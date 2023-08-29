@@ -15,8 +15,8 @@ Hey there! 👋🏽 I'm thrilled to have you join me on this exciting adventure 
 
 ### Recent Posts
 
-- [Post Title 1](link-to-post-1)
-- [Post Title 2](link-to-post-2)
+- [about me & this here blog](https://taniamartins.github.io/ubiquitous-lamp/2023/08/29/about-me-&-aims.html)
+<!--- [Post Title 2](link-to-post-2)
 - [Post Title 3](link-to-post-3)
 
 ### Archives
@@ -31,7 +31,7 @@ Hey there! 👋🏽 I'm thrilled to have you join me on this exciting adventure 
 
 - [Project Title 1](link-to-project-1)
 - [Project Title 2](link-to-project-2)
-- [Project Title 3](link-to-project-3)
+- [Project Title 3](link-to-project-3)-->
 
 ## Contact
 
