@@ -1,5 +1,5 @@
 ---
-title: learning as i go
+title: NEUROCOG
 ---
 
 **🌟 Welcome to My Journey: Learning, Growth, and Embracing Neurodiversity 🌟**
@@ -20,7 +20,7 @@ I'm thrilled to have you join me on this exciting adventure as I delve into the 
 
 ## Contact
 
-You can reach out to me via [email](mailto:tania.martins@rocketmail.com) or connect with me on [linkedin](https://www.linkedin.com/in/tania-martins-ba984220/).
+You can reach out to me via [email](mailto:tania.martins@rocketmail.com) or connect with me on [linkedin](https://www.linkedin.com/in/tania-martins-ba984220/).z
 
 ---
 © 2023 tania martins
