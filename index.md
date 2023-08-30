@@ -1,5 +1,5 @@
 ---
-title: learning as i go
+title: NEUROCOG
 ---
 
 ## about me
@@ -35,7 +35,7 @@ Hey there! 👋🏽 I'm thrilled to have you join me on this exciting adventure 
 
 ## Contact
 
-You can reach out to me via [Email](mailto:your@email.com) or connect with me on [LinkedIn](link-to-linkedin-profile).
+You can reach out to me via [Email](mailto:tania.martins@rocketmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/tania-martins-ba984220/).
 
 ---
 © 2023 tania martins
